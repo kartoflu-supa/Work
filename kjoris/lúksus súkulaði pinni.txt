@@ -1,0 +1,35 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong> Mjólk, sykur, hert kókosfita (<1% transfita), kakó, þrúgusykur, maltodextrin, bindiefni (ein- og tvíglýseríð, natríumkarboxímetýlsellulósi, karóbgúmmí, gúargúmmí, karragenan, natríumalgínat, própýlenglýkólalgínat), litarefni (annattólausnir, kínólíngult), bragðefni.
+<strong>Fylling;</strong> Svart krem(sykur, pálmaolía), maís, kartöflusterkja, sykur, þrúgusykur, kakó, tapíókasterkja, náttúruleg bourbon vanilla, náttúrul.bragðefni, salt, ýruefni(soja lesitin, lyftiefni(ammoníumkarbónat, natríumkarbónat).
+<strong>Hvítur hjúpur;</strong> Hert kókosfita(<1% transfita),sykur, nýmjólkurduft, flórsykur, maltodextrin, ýruefni(sólblóma lesitín), bragðefni(vanilín).</p>
+<p><strong>Óþols og ofnæmisáhrif:</strong>  Varan inniheldur soja, mjólkurprótein og mjólkursykur. Vara framleidd í rými þar sem hnetur og möndlur eru einnig meðhöndlaðar. </p>
+<p><strong>Magn:</strong>90 ml hvert stykki</p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>1312 kJ / 314 kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>22 g. þar af mettuð fita 20 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>25 g. þar af sykur 25 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>3 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0,15 g</td>
+</tr>
+</tbody>

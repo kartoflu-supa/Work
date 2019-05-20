@@ -1,0 +1,32 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong> Rekonstituerad skummjölk, socker, vetemjöl, vegetabiliskt fett (kokos), glukossirap, jordgubbsjuice från koncentrat (2%), vasslepulver (mjölk), skummjölkspulver, fettfattigt kakaopulver, emulgeringsmedel (E322 (soja), E322 (solros), E471 (vegetabiliskt)), stabiliseringsmedel (E410, E412), syra (E330), karamelliserat socker, koncentrat av rödbeta, spirulina, äpple, fläderbär), salt, rismjöl, kornmaltextrakt, kakaosmör, vegetabilisk olja (shea, solros), naturlig arom (jordgubbar, grädde, vanilj), ytbehandlingsmedel (E901, E903, E904), färgämne (E100, E120, E160c). </p>
+<p><strong>Óþols og ofnæmisáhrif:</strong> Varan inniheldur mjölkurfurðir, gluten og soja Varan gæti innihaldið í snefil magni af hnetum, jarðhnetur og egg. </p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>1140 kJ/272 kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>11 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>39 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>3,7 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0.21 g.</td>
+</tr>
+</tbody>

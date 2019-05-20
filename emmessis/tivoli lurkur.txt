@@ -1,0 +1,33 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong>: Vatn, sykur, glúkósi, dextrósi, ávaxtabragðefni, bindiefni (E412, E401, E407), ávaxtaþykkni, sýrustillir (E330), litarefni (E160a, E162).
+<strong>Hjúpur;</strong>: Jurtaolíur (kókosolía og repjuolía), sykur, undanrennuduft(mjólk), kakóduft, bindiefni (sólblómalesitín), vanillín.</p>
+<p><strong>Óþols og ofnæmisáhrif:</strong>  Varan inniheldur mjólkurprótein og mjólkursykur. Vara framleidd í rými þar sem hnetur og möndlur eru einnig meðhöndlaðar. </p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>591 kJ/ 139 Kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>4 g. þar af mettuð fita 3 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>25 g. þar af sykur 25 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>1 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0 g</td>
+</tr>
+</tbody>

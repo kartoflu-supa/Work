@@ -1,0 +1,32 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong>: Vatten, socker, siciliansk citronjuice från koncentrat (17%), glukossirap, maltodextrin, stabiliseringsmedel (metylcellulosa, guarkärnmjöl, fruktkärnmjöl, karboximetylcellulosa, natriumalginat, pektin), arom, dextros, färgämne (kurkumin, karotener).  </p>
+<p><strong>Óþols og ofnæmisáhrif:</strong> Varan gæti innihaldið í snefil magni af hnetum, jarðhnetur og mjólk. </p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>429 kJ/101 kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>0 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>25 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>0,1 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0,03 g.</td>
+</tr>
+</tbody>

@@ -1,0 +1,32 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong>: Vatten, hallonpuré (25%), socker, glukossirap, svartvinbärspuré (3,7%), färgämnen (antocyaner, rödbetsrött, kurkumin), citronjuicekoncentrat, stabiliseringsmedel (metylcellulosa, guarkärnmjöl, fruktkärnmjöl, karboximetylcellulosa, pektin, natriumalginat), syra (citronsyra), limejuicekoncentrat, glukos, arom. </p>
+<p><strong>Óþols og ofnæmisáhrif:</strong> Varan er gerð þar sem jarðhnetur, aðrar hnetur og mjólk er einnugis meðhöndlað. </p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>380 kJ/90 kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>0,2 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>21,4 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>0,4 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0 g</td>
+</tr>
+</tbody>

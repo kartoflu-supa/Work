@@ -1,0 +1,32 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong>: SKUMMJÖLK, vatten, socker, GRÄDDE (11%), glukossirap, vasslepulver (av MJÖLK), äppeljuicekoncentrat (2%), druvsocker, emulgeringsmedel (mono- och diglycerider av veg fettsyror), naturliga aromer, stabiliseringsmedel (fruktkärnmjöl,guarkärnmjöl, pektin), syra (citronsyra), färgämne (spirulina, safflor). </p>
+<p><strong>Óþols og ofnæmisáhrif:</strong> varan inniheldur mjólkurfurðir. </p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>600 kJ/150 kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>4,5 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>25 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>1,5 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0,1 g</td>
+</tr>
+</tbody>

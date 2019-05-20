@@ -1,0 +1,32 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong>: Skummjölk, våffla (15 %) (vetemjöl, socker, vegetabiliskt fett, emulgeringsmedel (sojalecitin), salt, jäsningsmedel (natriumhydrogenkarbonat), karamelliserad sockersirap), grädde (13 %), jordgubbsberedning (12 %) (jordgubbe, glukossirap, socker, koncentrerad jordgubbssaft, vatten, stabiliseringsmedel (pektin), stabiliseringsmedel (johannesbrödkärnmjöl), koncentrerad citronsaft), överdrag med chokladsmak (7,5 %) (vegetabiliskt fett, socker, fettreducerat kakaopulver, emulgeringsmedel (sojalecitin), aromämne), vassleprodukt, socker, glukos-fruktossirap, jordgubbssås (3 %) (socker, jordgubbspuré, glukossirap, koncentrerad jordgubbssaft, vatten, stabiliseringsmedel (pektin, karragenan), surhetsreglerande medel (citronsyra, natriumcitrat), aromämne, färgämne (gurkmeja, karmin), antioxidant (askorbinsyra)), chokladbitar (2 %) (socker, kakaomassa, kakaosmör, emulgeringsmedel (sojalecitin), jordgubbspuré, skummjölkspulver, emulgeringsmedel (mono- och diglycerider av fettsyror), stabiliseringsmedel (johannesbrödkärnmjöl, guarkärnmjöl), rödbetssaftkoncentrat, aromämne. </p>
+<p><strong>Óþols og ofnæmisáhrif:</strong> Varan inniheldur gluten, mjólkurfurðir og soja. Varan er gerð þar sem egg, jarðhnetur og aðrar hnetur er einnugis meðhöndlað. </p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>1140 kJ/272 kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>12 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>37,6 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>3,3 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0 g</td>
+</tr>
+</tbody>

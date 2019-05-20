@@ -1,0 +1,35 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong> Vatn, smjör, sykur, undanrennuduft (mjólk), dextrósi, mysuduft (mjólk), glúkósi, bindi- og ýruefni (E471, E412, E466, E433, E407), maltódextrín, bragðefni (vanillu, banana), litarefni (160b). 
+<strong>Kex;</strong> Hveiti, sykur, pálmaolía, bindiefni (sojalesitín), salt, brennt sýróp.
+<strong>karamellufylling;</strong> Glúkosasýróp, sykruð niðurseydd undanrenna, vatn, pálmakjarnafeiti, smjör, þrávarnarefni (E339i), sykur, salt, bindiefni (E407) bragðefni. Súkkulaði 
+<strong>Hjúpur;</strong> Jurtaolíur (kókosolía, repjuolía), sykur, undanrennuduft (mjólk), kakóduft, bindiefni (sólblómalesitín), vanillín. </p>
+<p><strong>Óþols og ofnæmisáhrif:</strong>  Varan inniheldur gluten, sojalesitín, mjólkurprótein og mjólkursykur. Vara framleidd í rými þar sem hnetur og möndlur eru einnig meðhöndlaðar. </p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>1146 kJ/ 273 Kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>14 g. þar af mettuð fita 9 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>33 g. þar af sykur 31 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>4 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0,2 g</td>
+</tr>
+</tbody>

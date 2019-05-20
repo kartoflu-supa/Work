@@ -1,0 +1,35 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong> Mjólk, sykur, fullhert kókosfita(<1% transfita), undanrennuduft, þrúgusykur, maltodextrin, bindiefni ( ein- og tvíglýseríð, natríumkarboxímetýlsellulósi, karóbgúmmí, gúargúmmí, karragenan, natríumalgínat, própýlenglýkólalgínat), litarefni (annattó), bragðefni. 
+<strong>Fylling;</strong> Sykur, vatn, glúkósasíróp, nýmjólkarduft, matarsalt, ýruefni (sólblómalesitín), bragðefni, litarefni (karmellubrúnn), rotvarnaefni (kalíum sorbat).
+<strong>Súkkulaðihjúpur;</strong> Sykur, nýmjólkurduft, kakósmjör, kakómassi, ýruefni (sólblómalesitín). 
+<p><strong>Óþols og ofnæmisáhrif:</strong>  Varan inniheldur mjólkurprótein og mjólkursykur. Vara getur innihaldið snefil af hnetum og möndlum.</p>
+<p><strong>Magn:</strong>90 ml hvert stykki</p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>1307 kJ / 314 kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>22 g. þar af mettuð fita 18 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>25 g. þar af sykur 25 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>4 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0,15 g</td>
+</tr>
+</tbody>

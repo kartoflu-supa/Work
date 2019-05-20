@@ -1,0 +1,35 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong> Vatn, sykur, smjör, undanrennuduft, mysuduft, dextrósi, glúkósi, bindi- og ýruefni (E412, E466, E433, E407, E471), vanillubragðefni, náttúruleg appelsínuolía, litarefni (E160e), maltódextrín.
+<strong>Kex;</strong> Hveiti, sykur, pálmaolía, bindiefni (sojalesitín), salt, brennt sýróp.
+<strong>Hnetukurl;</strong> Sykur, heslihnetur 20%.
+<strong>Hjúpur;</strong> Pálmakjarnafeiti, sykur, fituskert kakóduft, undanrennuduft, bindiefni(sólblóma lesitín), vanillin.</p>
+<p><strong>Óþols og ofnæmisáhrif:</strong>  Varan inniheldur gluten, sojalesitín, mjólkurprótein og mjólkursykur. Vara framleidd í rými þar sem hnetur og möndlur eru einnig meðhöndlaðar. </p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>1121 kJ/ 264 Kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>13 g. þar af mettuð fita 8 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>33 g. þar af sykur 31 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>4 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0,2 g</td>
+</tr>
+</tbody>

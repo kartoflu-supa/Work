@@ -1,0 +1,34 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p>Vatn, undanrennuduft, sætuefni (maltitol), hert jurtafita (<1%transfita), kakó, trefjar (mais), súkkulaðihjúpur (6%) (kakó, sætuefni (maltitol), kakósmjör, ýruefni (soja lesitin), bragðefni), bindiefni (karboxýlmetólsellulósa, natríumalgínat, hydroxíprópílmetýlsellulósa), bragðefni, salt, litarefni (annattó).</p>
+<p><strong>Óþols og ofnæmisáhrif:</strong>Varan inniheldur soja lesitín, mjólkurprótein og mjólkursykur. Vara framleidd í rými þar sem hnetur og möndlur eru einnig meðhöndlaðar. Inniheldur engin aso-litarefni.</p>
+<p><strong>Magn:</strong>50 ml hvert stykki</p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td> 566 kJ/ 132 kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>5 g. þar af mettuð fita 0 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>25 g. þar af sykur 8 g.*</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>4,5 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0 g</td>
+</tr>
+</tbody>
+<h6>*(Sykur 0 g, lactosasykur 8 g, polyólar 18 g).</h6>

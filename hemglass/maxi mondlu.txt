@@ -1,0 +1,32 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong>: Mjölkchoklad (29%) (socker, kakaosmör,  mjölkpulver,  kakaomassa,  smörolja, emulgator (sojalecitin, polyglycerolpolyricinoleat), vaniljexstrakt), skummjölk, grädde (15%), invertsockersirap, vasslepulver, glukosesirap, mandelbitar (5%), emulgator (mono- och diglycerider av vegetabilska fettsyror), stärkelse, stabilisator (fruktkärnmjöl, guarkärnmjöl), vegetabilskt exstrakt (morot), vanilj, naturlig vaniljarom. </p>
+<p><strong>Óþols og ofnæmisáhrif:</strong> varan inniheldur mjólk, möndlur og soja. varan getur innihaldið gluten, jarðhnettur og egg í snefil magni. </p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>1402 kJ/337 kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>22,2 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>28,5 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>5 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0 g</td>
+</tr>
+</tbody>

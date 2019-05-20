@@ -1,0 +1,31 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong> Mjólk, sykur, fullhert kókosfita(&lt;1% transfita), kakó, þrúgusykur, bindiefni (ein- og tvíglýseríð, natríumkarboxímetýlsellulósi, karóbgúmmí, gúargúmmí, karragenan, natríumalgínat, própýlenglýkólalgínat), litarefni (annattólausnir, karamellubrúnt),bragðefni. <strong>Fylling;</strong> Sykur, vatn glúkósasíróp, kókosfita nýmjólkurduft, matarsalt, ýruefni(sólblóma-lesitín), bragðefni, litarefni (karamellubrúnn), rotvarnarefni (kalíum sorbat). <strong>Maltkúlur;</strong> Sykur, kakósmjör, nýmjólkurduft, síróp, kakó, salt, ýruefni(soja lesitin), bragðefni. Súkkulaði; Sykur, nýmjólkurduft, kakósmjör, kakómassi, ýruefni(soja lesitin), bragðefni. Brauðform; Vatn, hveiti, sykur, salt.</p>
+<p><strong>Óþols og ofnæmisáhrif:</strong> Varan inniheldur soja lesitín, hveiti (glútein), mjólkurprótein og mjólkursykur. Vara framleidd í rými þar sem hnetur og möndlur eru einnig meðhöndlaðar.</p>
+<p><strong>Magn:</strong> 120 ml. /75 g. hvert stykki</p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>1342 kj/322 kkal</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>18 g (þar af mettuð fita 16 g)</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>35 g (þar af sykur 35 g)</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Próten</td>
+<td>5 g</td>
+</tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0,15 g</td>
+</tbody>

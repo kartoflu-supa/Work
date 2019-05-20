@@ -1,0 +1,33 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong>: SKUMMJÖLK, VETEMJÖL, GRÄDDE (14%)*, socker, glukossirap, vasslepulver (av MJÖLK), kokosfett, solrosolja,kakao, emulgeringsmedel (mono- och diglycerider av veg fettsyror, solroslecitin), naturlig vaniljarom, bakpulver (ammoniumkarbonat, natriumkarbonat), stabiliseringsmedel (fruktkärnmjöl, guarkärnmjöl), arom, salt. </p>
+<h6>*Grädde med 40% fetthalt.</h6>
+<p><strong>Óþols og ofnæmisáhrif:</strong> varan inniheldur gluten og mjólk. </p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>1200 kJ/290 kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>10 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>44 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>4,9 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0,3 g</td>
+</tr>
+</tbody>
