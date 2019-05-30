@@ -1,0 +1,31 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong> Ingredienser: SKUMMJÖLK (Finland), glukossirap, vegetabiliska oljor (kokos, raps), socker, vatten, GRÄDDE (Finland), SKUMMJÖLKSPULVER, sötad kondenserad MJÖLK, VASSLEPULVER (MJÖLK), SMÖR, dextros, maltodextrin, färgämne (E150a), emulgeringsmedel (E322, E471), stabiliseringsmedel (E410, E412), salt, förtjockningsmedel (E440), aromer. Kan innehålla NÖTTER. Glutenfri. Glutenfri. </p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>1323 kJ/316 kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>19 g. Þar af með mettuð fita 14 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>33 g. Þar af með sykur 25 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>2,7 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0,1 g</td>
+</tr>
+</tbody>

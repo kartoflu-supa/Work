@@ -1,0 +1,31 @@
+﻿<h3>&nbsp;</h3>
+<h3>Innihald</h3>
+<p><strong>Ís;</strong> SKUMMJÖLK/SKMMETMAELK, GRÄDDE/FLØDE, socker/sukker, vegetabiliska oljor (kokos, ryps/raps), glukossirap, HELMJÖLKS-/SOEDMAELKSPULVER, vassle-/valle-/mysepulver (MJÖLK/MÆLK/MELK), glukos-fruktossirap, kakaosmör, rismjöl/-mel, kakaomassa, MJÖLKFETT/MAELKEFEDT, MJÖLK/MAELK/MELK, SKUMMJÖLKS-/SKUMMETMAELKSPULVER, emulgeringsmedel (E471, SOJALECITIN), förtjockningsmedel/fortykningsmiddel (E440, E412, E410, E407a), KORN-/BYGMALTEXTRAKT, salt, färgämne (E150a), aromer/aroma (kola/karamel, vanillin), maltodextrin, dextrose. Kan innehålla NÖTTER/NØDDER/NØTTER. </p>
+<table width="" border="0" cellspacing="0" cellpadding="10">
+<thead>
+<tr>
+<td class="infotables_title" colspan="2"><strong>Næringargildi í 100 gr.</strong></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="infotables_leftcol">Orka</td>
+<td>1528 kJ/365 kkal.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Fita</td>
+<td>23,7 g. Þar af með mettuð fita 15,7 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Kolvetni</td>
+<td>34,5 g. Þar af með sykur 28 g.</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Prótein</td>
+<td>3,6 g</td>
+</tr>
+<tr>
+<td class="infotables_leftcol">Salt</td>
+<td>0,3 g</td>
+</tr>
+</tbody>
